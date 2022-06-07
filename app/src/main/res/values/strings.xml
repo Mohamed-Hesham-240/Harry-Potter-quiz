@@ -1,0 +1,25 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Harry Potter quiz</string>
+    <string name="welcome">Welcome to the Harry Potter Lore quiz</string>
+    <string name="question1">Which of the following is not a horcrux?</string>
+    <string name="question2">What is an Auror?</string>
+    <string name="question3">Which of these are Hogwarts houses?</string>
+    <string name="question4">How many horcruxes are there?</string>
+    <string name="hint1">Answer...</string>
+    <string name="q1_ans1">Diary of Tom Riddle.</string>
+    <string name="q1_ans2">Nagini, the snake.</string>
+    <string name="q1_ans3">The Tri-Wizard cup.</string>
+    <string name="q1_ans4">Harry Potter.</string>
+    <string name="q2_ans1">A person that catches dark wizards.</string>
+    <string name="q2_ans2">A professional quidditch player.</string>
+    <string name="q2_ans3">A wizard who can change his appearance.</string>
+    <string name="q2_ans4">A person who can speak the tongue of sakes.</string>
+    <string name="q3_ans1">Hufflepuff.</string>
+    <string name="q3_ans2">Gryffindor.</string>
+    <string name="q3_ans3">Ravenclaw.</string>
+    <string name="q3_ans4">Slytherin.</string>
+    <string name="all_done">All Done</string>
+    <string name="score_message">You answered <xliff:g example="7" id="points">%s</xliff:g> out of 4 questions correctly</string>
+    <string name="all_correct">You got all questions right, seems u would make an equal match to the dark lord</string>
+    <string name="zero_correct">OOPS..all of ur answers are wrong :(</string>
+</resources>
